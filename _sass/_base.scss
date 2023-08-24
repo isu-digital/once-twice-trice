@@ -105,6 +105,12 @@ a {
     } 
 }
 
+.clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
 /* bootstrap icons tweaks */
 .bi { 
     display: inline-block;

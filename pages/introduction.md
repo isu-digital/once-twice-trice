@@ -1,7 +1,7 @@
 ---
 title: About
 layout: about
-permalink: /introduction.html
+permalink: /
 # include CollectionBuilder info at bottom
 credits: false
 # Edit the markdown on in this file to describe your collection

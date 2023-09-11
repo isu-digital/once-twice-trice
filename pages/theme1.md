@@ -8,14 +8,14 @@ credits: false
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" text=false heading=false padding="3em" %}
+{% include feature/jumbotron.html objectid="trice_035" text=false heading=false padding="3em" %}
 
 # Section 1
 
 <div class="row pt-3">
 <div class="col-md-6" markdown="1">
 
-{% include index/carousel.html objectid="demo_006" caption=false %}
+{% include index/carousel.html objectid="trice_006" caption=false %}
 
 </div>
 <div class="col-md-6" markdown="1">

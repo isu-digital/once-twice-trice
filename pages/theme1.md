@@ -8,7 +8,7 @@ credits: false
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="trice_035" text=false heading=false padding="3em" %}
+{% include feature/jumbotron.html objectid="trice_013" text=false heading=false padding="3em" %}
 
 # Section 1
 

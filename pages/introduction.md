@@ -20,7 +20,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus sit amet est ve
 
 Vivamus fringilla leo vel nisl efficitur, vitae vulputate ipsum varius. Nulla hendrerit massa justo, at auctor elit vestibulum eu. Sed accumsan finibus odio sit amet laoreet. Phasellus nisi quam, scelerisque sit amet accumsan id, cursus id elit. Duis interdum elit augue, sit amet scelerisque tellus lobortis in. 
 
-{% include feature/image-float.html objectid="trice_030" float="start" width="50" %}
+{% include feature/image-float.html objectid="trice_015" float="start" width="50" %}
 
 Aliquam interdum massa eu pharetra fermentum. Pellentesque luctus vehicula nisl. Pellentesque congue justo dui, ac euismod felis placerat vitae. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Etiam leo lorem, posuere vitae sem non, vestibulum volutpat massa. Fusce eu commodo mi. Interdum et malesuada fames ac ante ipsum primis in faucibus. Praesent a enim ac enim fringilla lobortis et vel justo. Phasellus ut venenatis purus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Integer vel diam porta, interdum neque sit amet, scelerisque massa. Cras ut placerat eros. Fusce scelerisque, eros et scelerisque suscipit, lacus purus blandit orci, id pulvinar tellus diam sit amet dui. Vivamus a elit tristique, efficitur nisi eu, suscipit lorem. Suspendisse a sapien aliquam, ultrices magna sed, accumsan massa. Etiam vitae tempor tortor. Cras pharetra a ipsum sit amet porttitor. Suspendisse potenti.
 

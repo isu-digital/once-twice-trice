@@ -15,7 +15,7 @@ credits: false
 <div class="row pt-3">
 <div class="col-md-6" markdown="1">
 
-{% include index/carousel.html objectid="trice_006" caption=false %}
+{% include index/carousel.html caption=false %}
 
 </div>
 <div class="col-md-6" markdown="1">

@@ -8,8 +8,6 @@ credits: false
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="trice_035" text=false heading=false padding="3em" %}
-
 # Introduction
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus sit amet est venenatis, elementum lacus id, semper tellus. Proin convallis dui bibendum lectus ornare, vel semper turpis elementum. Aliquam ac mi et augue tempus mattis. Donec blandit dui felis, id lobortis elit imperdiet vel. Etiam placerat urna id sem aliquet facilisis. Duis fringilla metus quis aliquam pellentesque. Nulla convallis posuere dolor, id placerat nisi bibendum auctor. Suspendisse faucibus malesuada erat, at gravida eros condimentum quis. Nullam aliquam, est in molestie tincidunt, nunc tellus consequat neque, vel auctor orci dolor a ipsum. Praesent velit turpis, gravida quis ex posuere, eleifend elementum tortor. Donec ac velit lorem. Fusce nec lacus mauris. Sed tempor ullamcorper bibendum. Cras vestibulum, augue id fringilla ullamcorper, arcu dui molestie justo, sed malesuada velit sapien et mauris.
@@ -17,6 +15,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus sit amet est ve
 <div class="clearfix"></div>
 
 ## Section 2
+
+{% include feature/jumbotron.html objectid="trice_035" text=false heading=false padding="3em" %}
 
 Vivamus fringilla leo vel nisl efficitur, vitae vulputate ipsum varius. Nulla hendrerit massa justo, at auctor elit vestibulum eu. Sed accumsan finibus odio sit amet laoreet. Phasellus nisi quam, scelerisque sit amet accumsan id, cursus id elit. Duis interdum elit augue, sit amet scelerisque tellus lobortis in. 
 

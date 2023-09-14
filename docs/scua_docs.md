@@ -43,6 +43,9 @@ Phasellus id finibus diam, sit amet mollis velit. Phasellus pretium vulputate or
 </div>
 ```
 
+Replace value for `objectid`:
+- `objectid`: Any objectid that corresponds to an item in the exhibit (refer to metadata spreadsheet: <https://docs.google.com/spreadsheets/d/14yu7vqfoq3Ti15D4EWcGOeBtc1Q_As88Vcan5qpo4mA/edit?usp=sharing>)
+
 For an image that shows up on the right, copy and paste this code:
 
 ```
@@ -58,4 +61,26 @@ Phasellus id finibus diam, sit amet mollis velit. Phasellus pretium vulputate or
 
 </div>
 </div>
+```
+
+Replace value for `objectid`:
+- `objectid`: Any objectid that corresponds to an item in the exhibit (refer to metadata spreadsheet: <https://docs.google.com/spreadsheets/d/14yu7vqfoq3Ti15D4EWcGOeBtc1Q_As88Vcan5qpo4mA/edit?usp=sharing>)
+
+## Update Navigation Menu
+
+1. In selected page (ex. `theme1.md`) edit the value for `title` on line 2.
+2. Edit the value for `permalink` on line 4 to reflect the new permalink for your page (will show up in URL). Example: `once.html`
+3. Locate and open the `config-nav.csv` file within the `_data` folder.
+4. Locate the page name you want to change (ex. `Theme 1` -> `Once`), and insert your new page name in its place.
+5. Locate the corresponding permalink you want to change (ex. `theme1.html` -> `once.html`), and insert your new permalink in its place.
+6. The edited `config-nav.csv` now might look something like this:
+
+```
+display_name,stub,dropdown_parent
+Introduction,/,
+Once,/once.html,
+Theme 2,/theme2.html,
+Theme 3,/theme3.html,
+Theme 4,/theme4.html,
+Theme 5,/theme5.html,
 ```

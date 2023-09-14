@@ -22,4 +22,6 @@ Phasellus id finibus diam, sit amet mollis velit. Phasellus pretium vulputate or
 
 {% include feature/image.html objectid="trice_004" caption=false %}
 
+{% include feature/image-float.html objectid="trice_015" float="start" width="50" %}
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus sit amet est venenatis, elementum lacus id, semper tellus. Proin convallis dui bibendum lectus ornare, vel semper turpis elementum. Aliquam ac mi et augue tempus mattis. Donec blandit dui felis, id lobortis elit imperdiet vel. Etiam placerat urna id sem aliquet facilisis. Duis fringilla metus quis aliquam pellentesque. Nulla convallis posuere dolor, id placerat nisi bibendum auctor. Suspendisse faucibus malesuada erat, at gravida eros condimentum quis. Nullam aliquam, est in molestie tincidunt, nunc tellus consequat neque, vel auctor orci dolor a ipsum. Praesent velit turpis, gravida quis ex posuere, eleifend elementum tortor. Donec ac velit lorem. Fusce nec lacus mauris. Sed tempor ullamcorper bibendum. Cras vestibulum, augue id fringilla ullamcorper, arcu dui molestie justo, sed malesuada velit sapien et mauris.

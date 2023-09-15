@@ -44,7 +44,6 @@ ultimately voted to postpone the decision to name the stadium until the universi
 <!-- Start image/text block -->
 ## Twice
 
-Phasellus id finibus diam, sit amet mollis velit. Phasellus pretium vulputate orci, id fermentum neque congue eu. 
 
 {% include feature/image-float.html objectid="trice_023" float="end" width="25" %}
 

@@ -31,7 +31,6 @@ On October 5, 1923, the Cyclone football team traveled to Minneapolis to play th
 <!-- Start image/text block -->
 ## Once
 
-{% include feature/image-float.html objectid="trice_023" float="end" width="25" %}
 
 In 1971, the idea for a new football stadium was proposed to replace Clyde Williams Field. The ISU Foundation funded the project, and the University immediately began raising funds to purchase the stadium. During this time, a strong possibility for the stadium’s name was that of a generous donor. However, in 1973, the student body was introduced to the idea of Jack Trice Stadium.  
 

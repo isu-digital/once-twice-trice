@@ -38,21 +38,11 @@ On October 5, 1923, the Cyclone football team traveled to Minneapolis to play th
 <!-- Start image/text block -->
 ## Once
 
-<div class="row pt-3">
-<div class="col-md-7" markdown="1">
-
 In 1971, the idea for a new football stadium was proposed to replace Clyde Williams Field. The ISU Foundation funded the project, and the University immediately began raising funds to purchase the stadium. During this time, a strong possibility for the stadium’s name was that of a generous donor. However, in 1973, the student body was introduced to the idea of Jack Trice Stadium.  
 
 Throughout the 1970s, most of the student body supported naming the stadium after Trice, as evidenced by survey results, passed student legislation, votes during student elections, thousands of signatures on petitions, and countless articles in the Iowa State Daily and other media. Even so, in 1975, the stadium opened with no name. Less than a year later, the recommendation to name the stadium Cyclone Stadium—with a separate area to honor athletes, named for Trice—was made to the Board of Regents. The Board 
 ultimately voted to postpone the decision to name the stadium until the university owned it. 
 
-</div>
-<div class="col-md-5" markdown="1">
-
-{% include feature/image.html objectid="trice_023" width="75" %}
-
-</div>
-</div>
 <!-- End image/text block -->
 
 

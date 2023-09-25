@@ -1,6 +1,5 @@
 # Add content to exhibit pages
 
-
 ## Create a GitHub account
 
 1. Go to <https://github.com>
@@ -15,14 +14,6 @@
 3. Dilineate sections using headings
 
 ## Add images
-
-### To wrap text around images:
-
-1. Copy and paste the "include" code to include images: `{% include feature/image-float.html objectid="trice_015" float="start" width="50" %}`
-2. Replace values for `objectid`, `float`, and `width`:
-    - `objectid`: Any objectid that corresponds to an item in the exhibit (refer to metadata spreadsheet: <https://docs.google.com/spreadsheets/d/14yu7vqfoq3Ti15D4EWcGOeBtc1Q_As88Vcan5qpo4mA/edit?usp=sharing>)
-    - `float`: Float the image left or right. Options: `start` = left; `end` = right
-    - `width`: Set the width of the image. Options: `25`, `50`, `75`, `100`
 
 ### To place images and text side by side:
 
@@ -43,8 +34,9 @@ Phasellus id finibus diam, sit amet mollis velit. Phasellus pretium vulputate or
 </div>
 ```
 
-Replace value for `objectid`:
-- `objectid`: Any objectid that corresponds to an item in the exhibit (refer to metadata spreadsheet: <https://docs.google.com/spreadsheets/d/14yu7vqfoq3Ti15D4EWcGOeBtc1Q_As88Vcan5qpo4mA/edit?usp=sharing>)
+- In the image include, replace values for `objectid`. Add or edit the value for `width` if needed:
+    - `objectid`: Any objectid that corresponds to an item in the exhibit (refer to metadata spreadsheet: <https://docs.google.com/spreadsheets/d/14yu7vqfoq3Ti15D4EWcGOeBtc1Q_As88Vcan5qpo4mA/edit?usp=sharing>)
+    - `width`: Set the width of the image. Options: `25`, `50`, `75`, `100`
 
 For an image that shows up on the **right**, copy and paste this code:
 
@@ -63,8 +55,9 @@ Phasellus id finibus diam, sit amet mollis velit. Phasellus pretium vulputate or
 </div>
 ```
 
-Replace value for `objectid`:
-- `objectid`: Any objectid that corresponds to an item in the exhibit (refer to metadata spreadsheet: <https://docs.google.com/spreadsheets/d/14yu7vqfoq3Ti15D4EWcGOeBtc1Q_As88Vcan5qpo4mA/edit?usp=sharing>)
+- In the image include, replace values for `objectid`. Add or edit the value for `width` if needed:
+    - `objectid`: Any objectid that corresponds to an item in the exhibit (refer to metadata spreadsheet: <https://docs.google.com/spreadsheets/d/14yu7vqfoq3Ti15D4EWcGOeBtc1Q_As88Vcan5qpo4mA/edit?usp=sharing>)
+    - `width`: Set the width of the image. Options: `25`, `50`, `75`, `100`
 
 ## Include multiple images on the same line:
 

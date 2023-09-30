@@ -84,14 +84,14 @@
     }
     
     h1, h2, h3, h4, h5, h6 {
-        max-width: 1500px;
+        max-width: 950px;
         margin: 1.5rem auto 1rem;
     }
     
-    .row, p, .about-narrowed-content, .footnotes, ol, ul, blockquote {
+    .row, p, .about-narrowed-content, .footnotes, ol, ul, blockquote, .card {
         margin-left: auto;
         margin-right: auto;
-        max-width: 1500px;
+        max-width: 950px;
     }
 
 }

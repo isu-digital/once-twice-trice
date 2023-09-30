@@ -1,3 +1,17 @@
 {%- assign figure = site.data[site.metadata] | where: "objectid", include.objectid | first -%}
+{%- capture image_link -%}{{ '/items/' | append: figure.objectid | append: '.html' | relative_url }}{% endcapture %}
+{%- capture image_caption_title -%}{{ figure.title | escape }}{%- endcapture -%}
+{%- capture image_caption_source -%}{{ figure.source | escape }}{%- endcapture -%}
+{%- capture image_alt -%}{{ figure.image_alt_text | default: figure.description | default: figure.title }}{%- endcapture -%}
+{%- capture image_date -%}{{ figure.date }}{%- endcapture -%}
+{%- capture image_src -%}{{ figure.image_small | default: figure.object_location | relative_url }}{%- endcapture -%}
+{%- capture image_src_lg -%}{{ figure.object_location | relative_url }}{% endcapture %}
 
-<img class="img-fluid rounded lazyload feature-float-{{ include.float }} w-{% if include.width %}{{ include.width }}{% endif %} p-4" {% if include.alt %}alt="{{ include.alt }}"{% endif %} title="click to see item" src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 3 2'%3E%3C/svg%3E" data-src="{{ figure.image_small | default: figure.object_location | relative_url }}">
+<div class="about-narrowed-content">
+    <figure class="figure mx-4{% if include.width %} feature-w-{{ include.width }}{% endif %} feature-float-{{ include.float }}">
+        <a class="spotlight gallery-img" data-download="true" title="{{ image_caption_title }}, {{ image_caption_source }}" href="{{ image_src_lg }}">
+            <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 3 2'%3E%3C/svg%3E" data-src="{{ image_src }}" alt="{{ image_alt | default: image_caption | escape }}" class="figure-img img-fluid rounded lazyload">
+        </a>
+        {% unless include.caption == false %}<figcaption class="figure-caption text-center">{% if i contains "/" %}{{ image_caption }}{% else %}<strong>{{ image_caption_title }}</strong>, <em>{{ image_caption_source }}</em>{% endif %}</figcaption>{% endunless %}
+    </figure>
+</div>

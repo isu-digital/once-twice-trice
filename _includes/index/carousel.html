@@ -16,6 +16,7 @@
     - "btn-color" - a bootstrap color class to theme the buttons. Can be any bootstrap template color (e.g. info, success) or outline (e.g. outline-info, outline-success), including colors created in config-theme-colors. (optional, default "primary")
     - "btn-text" - the label used in the link btn to view the carousel item (optional, default "View Item")
     - "items" - objectids of items to be featured in the carousel
+    - "float" = will use responsive float utility to add float on desktop (will not float on mobile), choose from "start" (left) or "end" (right)
     
 {%- endcomment -%}
 
@@ -36,30 +37,33 @@
     {% endfor %}
 {% endfor %}
 {% endif %}
+{% capture carouselInner %}carousel_inner_{{ selected-items[0].objectid | slugify }}{% endcapture %}
+{% capture carouselIndicators %}carousel_indicators_{{ selected-items[0].objectid | slugify }}{% endcapture %}
+{% capture imageCarousel %}image_carousel{{ selected-items[0].objectid | slugify }}{% endcapture %}
 
 {%- comment -%}
     Set up carousel div
 {%- endcomment -%}
 <style>
-    #imageCarousel .carousel-item { height: {{ include.height | remove: 'px' | strip | default: '300' }}px; }
+    #{{ imageCarousel }} .carousel-item { height: {{ include.height | remove: 'px' | strip | default: '300' }}px; }
 </style>
 <div class="card mb-3">
     {% if include.header %}<h5 class="card-header">{{ include.header }}</h5>{% endif %}
     <div class="card-body">
         {% if include.title %}<h5 class="card-title">{{ include.title }}</h5>{% endif %}
         
-        <div id="imageCarousel" class="carousel slide bg-dark rounded mb-3" data-bs-ride="carousel">
-            <div id="carouselIndicators" class="carousel-indicators">
+        <div id="{{ imageCarousel }}" class="carousel slide bg-dark rounded mb-3" data-bs-ride="carousel">
+            <div id="{{ carouselIndicators }}" class="carousel-indicators">
                 
             </div>
-            <div id="carouselInner" class="carousel-inner">
+            <div id="{{ carouselInner }}" class="carousel-inner">
                 
             </div>
-            <button class="carousel-control-prev" type="button" data-bs-target="#imageCarousel" data-bs-slide="prev">
+            <button class="carousel-control-prev" type="button" data-bs-target="#{{ imageCarousel }}" data-bs-slide="prev">
                 <span class="carousel-control-prev-icon" aria-hidden="true"></span>
                 <span class="visually-hidden">Previous</span>
             </button>
-            <button class="carousel-control-next" type="button" data-bs-target="#imageCarousel" data-bs-slide="next">
+            <button class="carousel-control-next" type="button" data-bs-target="#{{ imageCarousel }}" data-bs-slide="next">
                 <span class="carousel-control-next-icon" aria-hidden="true"></span>
                 <span class="visually-hidden">Next</span>
             </button>
@@ -78,8 +82,8 @@
     /* carouselItems.sort(function() { return 0.5 - Math.random() }); */
 
     /* add items to carousel */
-    var carousel = document.getElementById("carouselInner");
-    var carouselIndicators = document.getElementById("carouselIndicators");
+    var carousel = document.getElementById("{{ carouselInner }}");
+    var carouselIndicators = document.getElementById("{{ carouselIndicators }}");
     var slides = "";
     var indicators = "";
     var i, itemImg, itemLink;
@@ -93,7 +97,7 @@
             itemLink = '{{ '/items/' | relative_url }}' + carouselItems[i][1] + '.html';
         }   
         // create indicator 
-        indicator = `<button type="button" data-bs-target="#imageCarousel" data-bs-slide-to="${i.toString()}" ${ i == 0 ? 'class="active" aria-current="true" ' : '' }aria-label="Slide ${i.toString()}"></button>`;
+        indicator = `<button type="button" data-bs-target="#{{ imageCarousel }}" data-bs-slide-to="${i.toString()}" ${ i == 0 ? 'class="active" aria-current="true" ' : '' }aria-label="Slide ${i.toString()}"></button>`;
         // create slide
         slide = `<div class="carousel-item py-2${ i == 0 ? ' active' : '' }">
             <img class="d-block h-100 mx-auto lazyload" alt="${carouselItems[i][4]}" data-src="${itemImg}">

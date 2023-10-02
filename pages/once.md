@@ -14,7 +14,7 @@ credits: false
 {:.site-title}
 
 {:.pt-4}
-{% include feature/image-float.html objectid="trice_013" width="50" float="start" %}
+{% include feature/image-float.html objectid="trice_013" width="50" float="end" %}
 
 By the 1971 football season, it had become clear that the stadium at Clyde Williams Field needed replacing. There were structural problems, facilities such as restrooms needed to be improved, seating was limited to 35,000 (with a third of that being in the endzone), and gameday parking was scarce with no room for expansion. In September 1973, a design by Finch-Heery and Durrant, Deininger, Dommer, Kramer, Gordon was selected. On October 26, 1973, a groundbreaking ceremony was held for the new stadium.  
 

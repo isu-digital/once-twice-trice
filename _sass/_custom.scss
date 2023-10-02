@@ -2,3 +2,33 @@
     Put your custom SCSS here! 
     This allows you to override any CollectionBuilder or Bootstrap CSS without modifying the base theme files directly.
 */
+
+.site-title {
+    font-family: 'Antonio', sans-serif;
+}
+
+.title-underline {
+    text-decoration: underline;
+    text-decoration-color: #f1be48;
+    text-decoration-thickness: 1px;
+    text-underline-offset: 0.05em;
+}
+
+.title-large {
+    font-size: 8em;
+    font-weight: 1000;
+    text-decoration: underline;
+    text-decoration-color: #f1be48;
+    text-decoration-thickness: 1px;
+    text-underline-offset: 0.05em;
+}
+
+.site-subtitle {
+    color: #f1be48;
+    font-size: 1.75em;
+}
+
+.next-buttons {
+    margin-top:3rem;
+    margin-bottom:7rem;
+}

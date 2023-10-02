@@ -23,7 +23,7 @@ During the VEISHEA 1980 celebration, the Jack Trice Memorial Foundation had a bo
 <div class="clearfix"></div>
 
 {:.pt-4}
-{% include feature/image-float.html objectid="trice_027" width="50" float="start" %}
+{% include feature/image-float.html objectid="trice_027" width="50" float="end" %}
 
 In the fall of 1980, students started a marketing push to expand their efforts to gain support for naming the stadium in Trice's honor. During the October 25, 1980, game against Oklahoma, an airplane circled over the stadium for 40 minutes, trailed by a banner that read "Welcome to Jack Trice Stadium." The banner was the idea of Greg Douglas, GSB President, and Tom Jackson, GSB Vice President, who independently funded the plane.  
 

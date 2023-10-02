@@ -11,6 +11,7 @@ credits: false
 {% include feature/jumbotron.html objectid="trice_005" text=false heading="Ames Mourns Jack Trice" padding="2em" %}
 
 # {{ page.title }}
+{:.site-title}
 
 John "Jack" G. Trice was born on May 12, 1902, to Green and Anna Trice in Hiram, Ohio. He attended East Tech High School while living with his uncle in Cleveland. By his senior year, Trice had become a star athlete, playing on back-to-back undefeated teams. 
 
@@ -77,3 +78,7 @@ Over 30 years later, this plaque was rediscovered by Tom Emmerson, an undergradu
 </div>
 
 <div class="clearfix"></div>
+
+<div class="text-center next-buttons site-title">
+    <a class="display-6 text-dark" href="{{ 'once.html' | relative_url }}">Once – 1970s &raquo;</a>
+</div>

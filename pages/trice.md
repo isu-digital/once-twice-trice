@@ -9,6 +9,7 @@ credits: false
 ---
 
 # {{ page.title }}
+{:.site-title}
 
 <div class="row pt-3">
 <div class="col-md-7" markdown="1">

@@ -11,6 +11,7 @@ credits: false
 {% include feature/jumbotron.html objectid="trice_047" text=false heading=false padding="10em" %}
 
 # {{ page.title }}
+{:.site-title}
 
 The 1980s saw the second major push to name the stadium after Trice. Despite the Board of Regents' vote to delay naming the football stadium in 1976, students continued to show their support for Jack Trice Stadium through passing resolutions and bills in the Government of the Student Body and by demonstrating their support in highly visible ways. It was assumed that the University would own the stadium by the Spring of 1984, giving the students a new deadline. 
 
@@ -120,4 +121,8 @@ The Trice family has remained a part of his story at Iowa State throughout the l
 {% include feature/pdf-embed.html objectid="trice_065" %}
 
 </div>
+</div>
+
+<div class="text-center next-buttons site-title">
+    <a class="display-6 text-dark" href="{{ 'trice.html' | relative_url }}">Trice - 1990s &raquo;</a>
 </div>

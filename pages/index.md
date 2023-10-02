@@ -12,7 +12,7 @@ a Special Collections and University Archives exhibition, highlights the 24 year
 
 The exhibition begins in the 1920s, showing the early tributes to Trice by the Iowa State community. Then, it moves through the decades of student activism, from the initial push in the 1970s that resulted in a deferred decision by the Board of Regents, through the 1980s, when the field was named, and a statue erected in Trice's honor. The exhibition culminates with the final and successful push in the 1990s to rename the entire facility Jack Trice Stadium.
 
-Since 1923, Iowa State students have been inspired by Trice's legacy. They have sought to learn from his story and uphold the ideals he penned in his "I Will!" letter, displayed in the classroom, on the gridiron, and during his short life. This exhibit focuses on the students and student organizations of Iowa State who remained dedicated to this cause.
+Since 1923, Iowa State students have been inspired by Trice's legacy. They have sought to learn from his story and uphold the ideals he penned in his "I will!" letter, displayed in the classroom, on the gridiron, and during his short life. This exhibit focuses on the students and student organizations of Iowa State who remained dedicated to this cause.
 
 Curated by Greg Bailey and Rebecca Wells, Special Collections and University Archives
 

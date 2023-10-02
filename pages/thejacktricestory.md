@@ -30,7 +30,7 @@ Trice's last letter, written the night before the fateful game against Minnesota
 
 {:.pt-5}
 
-{% include feature/image-float.html objectid="trice_004" width="50" float="start" %}
+{% include feature/image-float.html objectid="trice_004" width="50" float="end" %}
 
 In the days following Trice's death on October 8, 1923, the Iowa State community came together in support of Trice and his family. Campus-wide activities were postponed, classes were suspended, and a memorial service was held on the lawn outside the campanile. Nearly 3,000 people gathered, forming a semi-circle around a wooden platform holding the casket of Trice draped in a cardinal and gold blanket.
 

@@ -1,6 +1,6 @@
 <style>
     #everything {
-        background-image: url('/assets/img/trice.jpg');
+        background-image: url('{{ "/assets/img/trice.jpg" | relative_url}}');
         background-size: cover;
         background-repeat: no-repeat;
         background-position: center;
@@ -20,7 +20,7 @@
     #toc-box {
         position: absolute;
         right: 1em;
-        bottom: 1em;
+        bottom: .15em;
     }
     @media screen and (max-width: 900px) {
         #home-banner {        

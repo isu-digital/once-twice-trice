@@ -32,10 +32,10 @@
 {%- capture pdf_caption -%}{% if include.caption %}{{ include.caption }}{% else %}{{ item.title }}{% endif %}{%- endcapture -%}
 {% endif %}
 <div class="about-narrowed-content">
-<div class="text-center {% if include.float %}feature-float-{{ include.float }}{% endif %}">
+<div class="text-center">
     <figure class="figure border rounded p-1 feature-w-{{ include.width | default: '100' }}">
         <div class="{% unless include.height %}ratio ratio-{{ include.ratio | default: '1x1' }}{% endunless %}">
-            <object aria-label="pdf embed of {{ pdf_caption | escape }}" {% if include.height %}width="100%" height="{{ include.height }}"{% endif %} data="{{ src }}" type="application/pdf">
+            <object aria-label="pdf embed of {{ pdf_caption | escape }}" {% if include.height %}width="100%" height="{{ include.height }}"{% endif %} data="{{ src }}#navpanes=0" type="application/pdf">
                 <p>The PDF is not rendering in your browser. Please <a href="{{ src }}">download the PDF</a> to view.</p>
             </object>
         </div>

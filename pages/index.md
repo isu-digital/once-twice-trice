@@ -19,7 +19,7 @@ Curated by Greg Bailey and Rebecca Wells, Special Collections and University Arc
 <small>NOTE ON LANGUAGE: The materials in this exhibition were created over 75 years and may contain outdated stereotypes, ideas, or language about racial identity and violence that may be offensive to viewers.</small>
 
 <div class="text-center pt-4">
-    <div class="btn-group" role="group" aria-label="Basic example">
+    <div class="btn-group flex-wrap" role="group" aria-label="Basic example">
         <a role="button" class="btn btn-outline-light btn-lg px-5" href="{{ '/thejacktricestory.html' | relative_url }}">The Jack Trice Story</a>
         <a role="button" class="btn btn-outline-light btn-lg px-5" href="{{ '/once.html' | relative_url }}">Once - 1970s</a>
         <a role="button" class="btn btn-outline-light btn-lg px-5" href="{{ '/twice.html' | relative_url }}">Twice - 1980s</a>

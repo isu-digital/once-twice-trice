@@ -52,7 +52,7 @@ Support for naming the football stadium in honor of Jack Trice was consistently 
 <div class="row pt-5">
 <div class="col-md-7" markdown="1">
 
-{% include index/carousel.html items="trice_030;trice_055" %}
+{% include index/carousel.html items="trice_030;trice_055;trice_034" %}
 
 </div>
 <div class="col-md-5" markdown="1">
@@ -75,9 +75,6 @@ Another tailgate was organized for the last game of the season, as it was antici
 After the University took possession of the new stadium, President Parks moved to have the stadium named during the December 15, 1983, Board of Regents meeting. Parks recommended the stadium be named "Cyclone Stadium" and the playing surface "Jack Trice Field." Student, faculty, and staff representatives at the meeting asked that a vote be delayed until the spring Board meeting in Ames. After a failed motion to name the stadium "Jack Trice-Cyclone Stadium," a motion was made for a vote on President Parks' recommendation. This vote passed unanimously.  
 
 <div class="clearfix"></div>
-
-{:.pt-4}
-{% include feature/image-float.html objectid="trice_034" width="50" float="start" %}
 
 It was announced in September 1984 that the game on November 4 against Nebraska would see a ceremony to dedicate the naming of the new stadium and field. During the game's halftime, a ceremony was held to formally dedicate the naming of the stadium and field.    
 

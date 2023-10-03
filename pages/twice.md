@@ -57,7 +57,7 @@ Support for naming the football stadium in honor of Jack Trice was consistently 
 </div>
 <div class="col-md-5" markdown="1">
 
-The Government of the Student Body continued their support of naming the football stadium in honor of Jack Trice into the 1983 school year. The GSB Senate passed Resolution #83-001R supporting the naming of the stadium for Trice and designated the October 8 game versus Kansas, the 60th anniversary of Trice's death, to be dedicated in his honor. Days before the game, Athletic Department officials decided not to support the idea but later agreed to have a moment of silence during the 3rd quarter.
+The Government of the Student Body continued their support of naming the football stadium in honor of Jack Trice through the early 1980s. The GSB Senate passed Resolution #83-001R supporting the naming of the stadium for Trice and designated the October 8 game versus Kansas, the 60th anniversary of Trice's death, to be dedicated in his honor. Days before the game, Athletic Department officials decided not to support the idea but later agreed to have a moment of silence during the 3rd quarter.
 
 </div>
 </div>

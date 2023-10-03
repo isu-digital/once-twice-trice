@@ -23,7 +23,7 @@ During the VEISHEA 1980 celebration, the Jack Trice Memorial Foundation had a bo
 <div class="clearfix"></div>
 
 {:.pt-4}
-{% include feature/image-float.html objectid="trice_027" width="50" float="start" %}
+{% include feature/image-float.html objectid="trice_027" width="50" float="end" %}
 
 In the fall of 1980, students started a marketing push to expand their efforts to gain support for naming the stadium in Trice's honor. During the October 25, 1980, game against Oklahoma, an airplane circled over the stadium for 40 minutes, trailed by a banner that read "Welcome to Jack Trice Stadium." The banner was the idea of Greg Douglas, GSB President, and Tom Jackson, GSB Vice President, who independently funded the plane.  
 
@@ -52,12 +52,12 @@ Support for naming the football stadium in honor of Jack Trice was consistently 
 <div class="row pt-5">
 <div class="col-md-7" markdown="1">
 
-{% include index/carousel.html items="trice_030;trice_055" %}
+{% include index/carousel.html items="trice_030;trice_055;trice_034" %}
 
 </div>
 <div class="col-md-5" markdown="1">
 
-The Government of the Student Body continued their support of naming the football stadium in honor of Jack Trice into the 1983 school year. The GSB Senate passed Resolution #83-001R supporting the naming of the stadium for Trice and designated the October 8 game versus Kansas, the 60th anniversary of Trice's death, to be dedicated in his honor. Days before the game, Athletic Department officials decided not to support the idea but later agreed to have a moment of silence during the 3rd quarter.
+The Government of the Student Body continued their support of naming the football stadium in honor of Jack Trice through the early 1980s. The GSB Senate passed Resolution #83-001R supporting the naming of the stadium for Trice and designated the October 8 game versus Kansas, the 60th anniversary of Trice's death, to be dedicated in his honor. Days before the game, Athletic Department officials decided not to support the idea but later agreed to have a moment of silence during the 3rd quarter.
 
 </div>
 </div>
@@ -75,9 +75,6 @@ Another tailgate was organized for the last game of the season, as it was antici
 After the University took possession of the new stadium, President Parks moved to have the stadium named during the December 15, 1983, Board of Regents meeting. Parks recommended the stadium be named "Cyclone Stadium" and the playing surface "Jack Trice Field." Student, faculty, and staff representatives at the meeting asked that a vote be delayed until the spring Board meeting in Ames. After a failed motion to name the stadium "Jack Trice-Cyclone Stadium," a motion was made for a vote on President Parks' recommendation. This vote passed unanimously.  
 
 <div class="clearfix"></div>
-
-{:.pt-4}
-{% include feature/image-float.html objectid="trice_034" width="50" float="start" %}
 
 It was announced in September 1984 that the game on November 4 against Nebraska would see a ceremony to dedicate the naming of the new stadium and field. During the game's halftime, a ceremony was held to formally dedicate the naming of the stadium and field.    
 

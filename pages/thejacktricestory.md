@@ -15,11 +15,11 @@ credits: false
 
 John "Jack" G. Trice was born on May 12, 1902, to Green and Anna Trice in Hiram, Ohio. He attended East Tech High School while living with his uncle in Cleveland. By his senior year, Trice had become a star athlete, playing on back-to-back undefeated teams. 
 
-{% include feature/image-float.html objectid="trice_001" width="50" float="start" %}
+{% include feature/image-float.html objectid="trice_001" width="25" float="start" %}
 
 After the season's end, Trice's high school coach Sam Willaman was hired by Iowa State to coach football. He recruited six East Tech players to Ames, including Trice. That summer, Trice married Cora Mae Starlard. Trice entered Iowa State College in the fall of 1922 as a non-collegiate two-year agriculture student and, by the winter semester, had transitioned to a full-time student studying animal husbandry while participating in football, track, and the Alpha Phi Alpha fraternity. 
 
-On October 5, 1923, the Cyclone football team traveled to Minneapolis to play the University of Minnesota. That night, in the Curtis Hotel, Trice penned his now famous "I Will!" letter. The next day, during the first half of the game, Jack was injured—later to be reported as a broken collarbone—but returned to the game. As he was working to disrupt a play in the third quarter, he was trampled and severely injured. Trice was 
+On October 5, 1923, the Cyclone football team traveled to Minneapolis to play the University of Minnesota. That night, in the Curtis Hotel, Trice penned his now famous "I will!" letter. The next day, during the first half of the game, Jack was injured—later to be reported as a broken collarbone—but returned to the game. As he was working to disrupt a play in the third quarter, he was trampled and severely injured. Trice was 
 helped off the field, taken to a hospital to be examined, and cleared to return to Ames with his team. Shortly after arriving, he was admitted to the college hospital but passed away on October 8, 1923, from complications caused by the injury to his abdomen. 
 
 Trice's last letter, written the night before the fateful game against Minnesota, was found in his jacket pocket after his death. The letter was read during his memorial service, and copies were sent to media outlets announcing his death. The words written in this letter have served as a testament to his character and inspiration for generations of Iowa Staters.
@@ -30,7 +30,7 @@ Trice's last letter, written the night before the fateful game against Minnesota
 
 {:.pt-5}
 
-{% include feature/image-float.html objectid="trice_004" width="50" float="start" %}
+{% include feature/image-float.html objectid="trice_004" width="50" float="end" %}
 
 In the days following Trice's death on October 8, 1923, the Iowa State community came together in support of Trice and his family. Campus-wide activities were postponed, classes were suspended, and a memorial service was held on the lawn outside the campanile. Nearly 3,000 people gathered, forming a semi-circle around a wooden platform holding the casket of Trice draped in a cardinal and gold blanket.
 
@@ -80,5 +80,10 @@ Over 30 years later, this plaque was rediscovered by Tom Emmerson, an undergradu
 <div class="clearfix"></div>
 
 <div class="text-center next-buttons site-title">
+<<<<<<< HEAD
     <a class="display-6 text-dark" href="{{ 'once.html' | relative_url }}"><span class="essay-title">Once – 1970s</span> &raquo;</a>
 </div>
+=======
+    <a class="display-6 text-dark" href="{{ 'once.html' | relative_url }}">Once – 1970s &raquo;</a>
+</div>
+>>>>>>> 84b0f91ad6b45b2b428cf1bb8d41734f88ffdcb0

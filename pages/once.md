@@ -14,7 +14,7 @@ credits: false
 {:.site-title}
 
 {:.pt-4}
-{% include feature/image-float.html objectid="trice_013" width="50" float="start" %}
+{% include feature/image-float.html objectid="trice_013" width="50" float="end" %}
 
 By the 1971 football season, it had become clear that the stadium at Clyde Williams Field needed replacing. There were structural problems, facilities such as restrooms needed to be improved, seating was limited to 35,000 (with a third of that being in the endzone), and gameday parking was scarce with no room for expansion. In September 1973, a design by Finch-Heery and Durrant, Deininger, Dommer, Kramer, Gordon was selected. On October 26, 1973, a groundbreaking ceremony was held for the new stadium.  
 
@@ -77,5 +77,10 @@ The committee and ad hoc representatives held a final vote on May 7, 1976, and w
 <div class="clearfix"></div>
 
 <div class="text-center next-buttons site-title">
+<<<<<<< HEAD
     <a class="display-6 text-dark" href="{{ 'twice.html' | relative_url }}"><span class="essay-title">Twice - 1980s</span> &raquo;</a>
 </div>
+=======
+    <a class="display-6 text-dark" href="{{ 'twice.html' | relative_url }}">Twice - 1980s &raquo;</a>
+</div>
+>>>>>>> 84b0f91ad6b45b2b428cf1bb8d41734f88ffdcb0

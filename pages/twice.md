@@ -105,24 +105,26 @@ The statue was originally located on central campus outside of Beardshear Hall, 
 
 The Trice family has remained a part of his story at Iowa State throughout the last century. In 1988, Herbert and Betty Armstrong, the daughter of Cora Mae Trice Greene (Trice's widow) and her husband Homer Lee Greene, wrote to ISU President Gordon P. Eaton about their plans to visit Ames and see the newly erected statue of Jack Trice. They were shown around campus and took photos and videos to share with Cora Mae, who lived in California. In response, Cora Mae shared her gratitude for the students and other contributors who raised the money for the statue and her poignant recollections from the fateful events in early October of 1923.
 
+<div class="wide-content">
 <div class="row pt-4">
-<div class="col-md-4" markdown="1">
+<div class="col-12 col-lg-4" markdown="1">
 
 {% include feature/pdf-embed.html objectid="trice_066" %}
 
 </div>
-<div class="col-md-4" markdown="1">
+<div class="col-12 col-lg-4" markdown="1">
 
 {% include feature/image.html objectid="trice_041" %}
 
 </div>
-<div class="col-md-4" markdown="1">
+<div class="col-12 col-lg-4" markdown="1">
 
 {% include feature/pdf-embed.html objectid="trice_065" %}
 
 </div>
 </div>
+</div>
 
 <div class="text-center next-buttons site-title">
-    <a class="display-6 text-dark" href="{{ 'trice.html' | relative_url }}">Trice - 1990s &raquo;</a>
+    <a class="display-6 text-dark" href="{{ 'trice.html' | relative_url }}"><span class="essay-title">Trice - 1990s</span> &raquo;</a>
 </div>

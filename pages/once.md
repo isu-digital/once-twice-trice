@@ -77,10 +77,5 @@ The committee and ad hoc representatives held a final vote on May 7, 1976, and w
 <div class="clearfix"></div>
 
 <div class="text-center next-buttons site-title">
-<<<<<<< HEAD
     <a class="display-6 text-dark" href="{{ 'twice.html' | relative_url }}"><span class="essay-title">Twice - 1980s</span> &raquo;</a>
 </div>
-=======
-    <a class="display-6 text-dark" href="{{ 'twice.html' | relative_url }}">Twice - 1980s &raquo;</a>
-</div>
->>>>>>> 84b0f91ad6b45b2b428cf1bb8d41734f88ffdcb0

@@ -80,10 +80,5 @@ Over 30 years later, this plaque was rediscovered by Tom Emmerson, an undergradu
 <div class="clearfix"></div>
 
 <div class="text-center next-buttons site-title">
-<<<<<<< HEAD
     <a class="display-6 text-dark" href="{{ 'once.html' | relative_url }}"><span class="essay-title">Once – 1970s</span> &raquo;</a>
 </div>
-=======
-    <a class="display-6 text-dark" href="{{ 'once.html' | relative_url }}">Once – 1970s &raquo;</a>
-</div>
->>>>>>> 84b0f91ad6b45b2b428cf1bb8d41734f88ffdcb0

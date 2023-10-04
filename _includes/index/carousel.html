@@ -21,7 +21,7 @@
 {%- endcomment -%}
 
 {%- assign carousel-max = include.max | default: 9 -%}
-{%- assign btn-color = include.btn-color | default: "primary" -%}
+{%- assign btn-color = include.btn-color | default: "buttonblue" -%}
 {%- assign btn-text = include.btn-text | default: "View Item" -%}
 {% if site.data.theme.carousel-child-objects == true %}
 {%- assign carousel-items = site.data[site.metadata] | where_exp: 'item','item.objectid' | where_exp: "item","item.image_small != nil or item.image_thumb != nil"-%}
@@ -52,7 +52,7 @@
     <div class="card-body">
         {% if include.title %}<h5 class="card-title">{{ include.title }}</h5>{% endif %}
         
-        <div id="{{ imageCarousel }}" class="carousel slide bg-dark rounded mb-3" data-bs-ride="carousel">
+        <div id="{{ imageCarousel }}" class="carousel slide bg-dark rounded mb-3" data-bs-ride="carousel" data-bs-interval="false">
             <div id="{{ carouselIndicators }}" class="carousel-indicators">
                 
             </div>
@@ -103,7 +103,7 @@
             <img class="d-block h-100 mx-auto lazyload" alt="${carouselItems[i][4]}" data-src="${itemImg}">
             <div class="carousel-caption">
                 <h5 class="carousel-item-title text-white py-2">${carouselItems[i][0]}</h5>
-                <a class="spotlight gallery-img btn btn-sm btn-{{ btn-color }}" data-download="true" title="${carouselItems[i][4]} ${carouselItems[i][6]}" href="${carouselItems[i][5]}">{{ btn-text }}</a>
+                <a class="spotlight gallery-img btn btn-sm btn-{{ btn-color }} text-white" data-download="true" title="${carouselItems[i][4]} ${carouselItems[i][6]}" href="${carouselItems[i][5]}">{{ btn-text }}</a>
             </div></div>`;
         slides += slide;
         indicators += indicator;

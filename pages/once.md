@@ -32,7 +32,7 @@ Dr. Charles Sohn, a childhood friend of Beals and an English professor at Iowa S
 </div>
 
 {:.pt-5}
-{% include feature/image.html objectid="trice_016" width="75" %}
+{% include feature/image.html objectid="trice_016" width="50" %}
 
 <div class="row pt-5">
 <div class="col-md-6" markdown="1">

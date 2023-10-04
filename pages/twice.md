@@ -76,6 +76,9 @@ In October 1984, the Government of the Student Body allocated $1,732 and formed 
 {:.pt-4}
 {% include feature/image.html objectid="trice_033" %}
 
+{:.pt-4}
+{% include feature/audio.html objectid="trice_068" %}
+
 <div class="row pt-5">
 <div class="col-md-7" markdown="1">
 

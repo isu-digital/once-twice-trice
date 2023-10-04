@@ -8,8 +8,6 @@ credits: false
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="trice_013" text=false heading=false padding="3em" %}
-
 # {{ page.title }}
 {:.site-title}
 
@@ -20,7 +18,7 @@ By the 1971 football season, it had become clear that the stadium at Clyde Willi
 
 In 1973, Alan Beals, an Athletic Department tutor, happened upon the same overlooked and dilapidated plaque discovered by Tom Emmerson in 1957. Trice's story was again forgotten in the 16 years between their independent discoveries of this memorial. On October 5, 1973, commemorating the 50th anniversary of Trice's death, Beals and Daily sports editor Jim Smith wrote the article, "Trice: A Forgotten Story Remembered," in the *Iowa State Daily*.
 
-<div class="row pt-5">
+<div class="row pt-3">
 <div class="col-md-7" markdown="1">
 
 {% include feature/pdf-embed.html objectid="trice_064" %}
@@ -34,17 +32,17 @@ Dr. Charles Sohn, a childhood friend of Beals and an English professor at Iowa S
 </div>
 
 {:.pt-5}
-{% include feature/image.html objectid="trice_016" %}
+{% include feature/image.html objectid="trice_016" width="75" %}
 
 <div class="row pt-5">
 <div class="col-md-6" markdown="1">
 
-{% include index/carousel.html items="trice_018;trice_019;trice_046" %}
+As the Jack Trice Memorial Stadium Committee looked to promote the story of Jack Trice, his legacy, and their push to get the stadium named after him, they held contests to design various memorabilia, including t-shirts, stationery, and buttons. The two button designs displayed here were distributed to the public.
 
 </div>
 <div class="col-md-6" markdown="1">
-
-As the Jack Trice Memorial Stadium Committee looked to promote the story of Jack Trice, his legacy, and their push to get the stadium named after him, they held contests to design various memorabilia, including t-shirts, stationery, and buttons. The two button designs displayed here were distributed to the public. 
+ 
+{% include index/carousel.html items="trice_018;trice_019;trice_046;trice_047" %}
 
 </div>
 </div>

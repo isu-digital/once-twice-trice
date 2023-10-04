@@ -8,15 +8,13 @@ credits: false
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="trice_047" text=false heading=false padding="10em" %}
-
 # {{ page.title }}
 {:.site-title}
 
-The 1980s saw the second major push to name the stadium after Trice. Despite the Board of Regents' vote to delay naming the football stadium in 1976, students continued to show their support for Jack Trice Stadium through passing resolutions and bills in the Government of the Student Body and by demonstrating their support in highly visible ways. It was assumed that the University would own the stadium by the Spring of 1984, giving the students a new deadline. 
-
 {:.pt-4}
 {% include feature/image-float.html objectid="trice_023" width="50" float="start" %}
+
+The 1980s saw the second major push to name the stadium after Trice. Despite the Board of Regents' vote to delay naming the football stadium in 1976, students continued to show their support for Jack Trice Stadium through passing resolutions and bills in the Government of the Student Body and by demonstrating their support in highly visible ways. It was assumed that the University would own the stadium by the Spring of 1984, giving the students a new deadline.
 
 During the VEISHEA 1980 celebration, the Jack Trice Memorial Foundation had a booth as part of the open house displays. They shared displays and distributed information at the booth, including a ticket to obtain this poster and mailer about Trice and his ideals. 
 
@@ -29,25 +27,18 @@ In the fall of 1980, students started a marketing push to expand their efforts t
 
 <div class="clearfix"></div>
 
-<div class="row pt-4">
-<div class="col-md-6" markdown="1">
+Over the summer of 1981, ISU students Steve deProsse and Rick Yoder developed a plan for a billboard to keep alive the idea of naming the stadium in honor of Trice. The billboard idea was inspired by the airplane from the previous fall with the hope that it would have a larger impact since it would be up for a month. 
 
-{% include feature/image.html objectid="trice_029" %}
+{% include feature/image-float.html objectid="trice_029" width="50" float="start" %}
 
-</div>
-<div class="col-md-6" markdown="1">
-
-Over the summer of 1981, ISU students Steve deProsse and Rick Yoder developed a plan for a billboard to keep alive the idea of naming the stadium in honor of Trice. The billboard idea was inspired by the airplane from the previous fall with the hope that it would have a larger impact since it would be up for a month. The billboard was installed in late August near the corner of Lincoln Way and Sherman Avenue at the cost of $240, which had been provided by the Iowa Public Interest Research Group (PIRG). Private donations were solicited to repay PIRG. 
-
-</div>
-</div>
+The billboard was installed in late August near the corner of Lincoln Way and Sherman Avenue at the cost of $240, which had been provided by the Iowa Public Interest Research Group (PIRG). Private donations were solicited to repay PIRG. 
 
 Following a debate by GSB Senators, a vote was held to allocate funds to promote the stadium's naming in honor of Trice during the game against Nebraska on November 15, 1980. Money was set aside for flyers, radio spots, an airplane, a banner, and a newspaper ad. During the game, radio spots ran on three radio stations in Ames and one in Shenandoah. A station in Des Moines refused to run the ad based on the Fairness Doctrine.  
 
 Support for naming the football stadium in honor of Jack Trice was consistently strong among the student body, as evidenced by student-signed petitions, GSB legislation, and resolutions by student organizations. The Jack Trice Memorial Foundation worked to garner support from the ISU Faculty as well by polling faculty on their stance and by soliciting their support by inviting them to join the Foundation and to send postcards supporting the naming of the stadium after Trice to the Board of Regents.  
 
 {:.pt-4}
-{% include feature/image.html objectid="trice_025;trice_026" %}
+{% include feature/image.html objectid="trice_025;trice_026" width="75" %}
 
 <div class="row pt-5">
 <div class="col-md-7" markdown="1">

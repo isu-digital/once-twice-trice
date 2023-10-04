@@ -8,8 +8,6 @@ credits: false
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="trice_005" text=false heading="Ames Mourns Jack Trice" padding="2em" %}
-
 # {{ page.title }}
 {:.site-title}
 
@@ -30,9 +28,11 @@ Trice's last letter, written the night before the fateful game against Minnesota
 
 {:.pt-5}
 
+In the days following Trice's death on October 8, 1923, the Iowa State community came together in support of Trice and his family. Campus-wide activities were postponed, classes were suspended, and a memorial service was held on the lawn outside the campanile.
+
 {% include feature/image-float.html objectid="trice_004" width="50" float="end" %}
 
-In the days following Trice's death on October 8, 1923, the Iowa State community came together in support of Trice and his family. Campus-wide activities were postponed, classes were suspended, and a memorial service was held on the lawn outside the campanile. Nearly 3,000 people gathered, forming a semi-circle around a wooden platform holding the casket of Trice draped in a cardinal and gold blanket.
+Nearly 3,000 people gathered, forming a semi-circle around a wooden platform holding the casket of Trice draped in a cardinal and gold blanket.
 
 Among the speakers were R. A. Pearson (President), Dr. O. H. Cessna (College Chaplin), J. E. Foster (Dean of Men), C. S. McElyea (President of the Cardinal Guild), and Ira Young (Captain of the football team). His virtues as a student, athlete, and person were lauded, and the service concluded with the reading of Trice's last letter by President Pearson.  
 
@@ -51,31 +51,21 @@ Even in their deepest sorrow, Trice's family recognized the support of the Iowa 
 
 For the rest of the 1923 football season, each of Trice's former teammates paid tribute to him with a black mourning ribbon tied around their left arm. This visible eulogy stood in contrast to their gold jerseys and heartened them to demonstrate Trice's fighting spirit on the field. Football Captain Ira Young is quoted in the Jack Trice memorial issue of The Iowa State Student as saying about Trice, "He fought harder than the rest of us; he gave more than the rest of us; he gave his life for Ames." 
 
+<div class="clearfix"></div>
+
+{% include feature/image-float.html objectid="trice_007" width="25" float="end" %}
+{:.pt-4}
+
 Still, the student body wanted to establish a memorial beyond what could be carried by Trice's former teammates on the gridiron. They sought to create something "tangible" to pay tribute to Trice and to influence those who encountered it by introducing them to Trice's ideals. A month after Trice's death, the memorial had not yet been conceptualized, but it was clear that the students of Iowa State would be instrumental in its realization. 
 
-<div class="row pt-3">
-<div class="col-md-5" markdown="1">
+<div class="clearfix"></div>
 
-{% include feature/image.html objectid="trice_012" %}
-
-</div>
-<div class="col-md-7" markdown="1">
-
+{:.pt-4}
 In 1924, a commemorative plaque was mounted in State Gym. It contained the date and cause of Trice's death and an excerpt from his last letter. Over the years, this tangible remembrance, cast in bronze, was forgotten, covered in grime, and hidden behind a staircase.
-
-</div>
-
-<div class="col-md-5" markdown="1">
-
-{% include feature/image.html objectid="trice_007" %}
-
-</div>
-<div class="col-md-7" markdown="1">
 
 Over 30 years later, this plaque was rediscovered by Tom Emmerson, an undergraduate journalism student at Iowa State. Emmerson, interested to learn more about Trice, looked to the Athletic Department only to discover that despite the plaque, Trice's story had been forgotten. Emmerson went to the library to research Trice and ultimately wrote the article "Jack Trice – Victor on a Fatal Field" in the November 1957 issue of The Iowa State Scientist. The cover story garnered little student interest at the time.
 
-</div>
-</div>
+{% include feature/image.html objectid="trice_012" width="50" %}
 
 <div class="clearfix"></div>
 

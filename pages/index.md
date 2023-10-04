@@ -14,15 +14,16 @@ The exhibition begins in the 1920s, showing the early tributes to Trice by the I
 
 Since 1923, Iowa State students have been inspired by Trice's legacy. They have sought to learn from his story and uphold the ideals he penned in his "I will!" letter, displayed in the classroom, on the gridiron, and during his short life. This exhibit focuses on the students and student organizations of Iowa State who remained dedicated to this cause.
 
-Curated by Greg Bailey and Rebecca Wells, Special Collections and University Archives
+Curated by Greg Bailey and Rebecca Wells, Special Collections and University Archives.  
+Web design by Digital Scholarship and Initiatives.
 
 <small>NOTE ON LANGUAGE: The materials in this exhibition were created over 75 years and may contain outdated stereotypes, ideas, or language about racial identity and violence that may be offensive to viewers.</small>
 
 <div class="text-center pt-4">
     <div class="btn-group flex-wrap" role="group" aria-label="Basic example">
-        <a role="button" class="btn btn-outline-light btn-lg px-5" href="{{ '/thejacktricestory.html' | relative_url }}">The Jack Trice Story</a>
-        <a role="button" class="btn btn-outline-light btn-lg px-5" href="{{ '/once.html' | relative_url }}">Once - 1970s</a>
-        <a role="button" class="btn btn-outline-light btn-lg px-5" href="{{ '/twice.html' | relative_url }}">Twice - 1980s</a>
-        <a role="button" class="btn btn-outline-light btn-lg px-5" href="{{ '/trice.html' | relative_url }}">Trice - 1990s</a>
+        <a role="button" class="btn btn-outline-light btn-lg px-5 nav-buttons" href="{{ '/thejacktricestory.html' | relative_url }}">The Jack Trice Story</a>
+        <a role="button" class="btn btn-outline-light btn-lg px-5 nav-buttons" href="{{ '/once.html' | relative_url }}">Once - 1970s</a>
+        <a role="button" class="btn btn-outline-light btn-lg px-5 nav-buttons" href="{{ '/twice.html' | relative_url }}">Twice - 1980s</a>
+        <a role="button" class="btn btn-outline-light btn-lg px-5 nav-buttons" href="{{ '/trice.html' | relative_url }}">Trice - 1990s</a>
     </div>
 </div>

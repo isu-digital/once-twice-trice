@@ -29,7 +29,7 @@
 {%- assign item = site.data[site.metadata] | where: "objectid", include.objectid | first -%}
 {%- capture src -%}{% if  item.filename contains '/' %}{{ item.filename | relative_url }}{% else %}{{ '/objects/' | append: item.filename | relative_url }}{% endif %}{% endcapture %}
 {%- capture pdf_link -%}{% if item.parentid %}{{ item.objectid | prepend: '#' | prepend: item.parentid | prepend: '/item.html?id=' | relative_url }}{% else %}{{ item.objectid | prepend: '/item.html?id=' | relative_url }}{% endif %}{%- endcapture -%}
-{%- capture pdf_caption -%}{% if include.caption %}{{ include.caption }}{% else %}{{ item.title }}{% endif %}{%- endcapture -%}
+{%- capture pdf_caption -%}{% if include.caption %}{{ include.caption }}{% else %}<strong>{{ item.title }}</strong>, <strong>{{ item.date-scua-format }}</strong>. <em>{{ item.source }}</em>{% endif %}{%- endcapture -%}
 {% endif %}
 <div class="about-narrowed-content">
 <div class="text-center">
@@ -39,7 +39,7 @@
                 <p>The PDF is not rendering in your browser. Please <a href="{{ src }}">download the PDF</a> to view.</p>
             </object>
         </div>
-        {% unless include.caption == false %}<figcaption class="figure-caption pt-2"><a href="{{ src }}" style="color: #6c757d;"><strong>{{ pdf_caption }}</strong></a></figcaption>{% endunless %}
+        {% unless include.caption == false %}<figcaption class="figure-caption pt-2"><a href="{{ src }}" class="caption-color"><strong>{{ pdf_caption }}</strong></a></figcaption>{% endunless %}
     </figure>
 </div>
 </div>

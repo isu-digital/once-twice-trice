@@ -8,9 +8,9 @@
 # URL VARIABLES
 #
 # site domain, full URL to the production location of your collection
-url: 
+url: https://iastatedigital.org
 # path to location on the domain if necessary e.g. /digital/hjccc
-baseurl: 
+baseurl: /oncetwicetrice
 # location of code, the full url to your github repository
 source-code: https://github.com/owikle/isu-jack-trice
 
@@ -25,9 +25,9 @@ tagline: Students Tackle Naming Jack Trice Stadium
 # this description might appear in search result lists, keep around 160 characters max
 description: "Students Tackle Naming Jack Trice Stadium"
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
-keywords: idaho;history;inland northwest
+keywords: iowa state university;football;jack trice
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: CollectionBuilder
+author: owikle
 
 ##########
 # COLLECTION SETTINGS

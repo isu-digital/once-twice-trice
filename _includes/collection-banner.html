@@ -46,19 +46,22 @@
     
 </div>
 {%- else -%}
-<div class="container">
-    <div class="row align-items-center">
-        <div id="title" class="{% if site.organization-logo-banner %}col-md-9{% else %}col-12{% endif %}">
-            <h1><a class="text-dark font-weight-normal site-title" href="{{ '/' | relative_url }}" >{{ site.title }}</a></h1>	 
-            {% if site.tagline %}<p>{{ site.tagline }}</p>{% endif %}
+<div id="essay-banner" class="container-fluid">
+    <div class="container">
+        <div class="row align-items-center pt-5 pb-5">
+            <div id="title" class="{% if site.organization-logo-banner %}col-md-9{% else %}col-12{% endif %}">
+                <h1><a class="text-white font-weight-normal site-title" href="{{ '/' | relative_url }}" >{{ site.title }}</a></h1>	 
+                {% if site.tagline %}<p class="text-white">{{ site.tagline }}</p>{% endif %}
+            </div>
+            {% if site.organization-logo-banner %}
+            <div class="col-md-3 d-none d-lg-block text-end">
+                <a class="btn btn-outline-light" href="{{ site.organization-link }}" target="_blank" rel="noopener" style="background-color: white;">
+                    <img class="img-fluid" src="{{ site.organization-logo-banner | relative_url }}" title="{{ site.organization-name }}" alt="{{ site.organization-name | escape }} home" >
+                    <p class="text-cardinal text-end mb-0 mt-2" style="font-size: 1.2em;">University Library</p>
+                </a>
+            </div>
+            {% endif %}
         </div>
-        {% if site.organization-logo-banner %}
-        <div class="col-md-3 d-none d-lg-block text-end">
-            <a class="btn btn-outline-light" href="{{ site.organization-link }}" target="_blank" rel="noopener">
-                <img class="img-fluid" src="{{ site.organization-logo-banner | relative_url }}" title="{{ site.organization-name }}" alt="{{ site.organization-name | escape }} home" >
-            </a>
-        </div>
-        {% endif %}
     </div>
 </div>
 {%- endif -%}

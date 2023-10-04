@@ -2,14 +2,14 @@
 <html lang="en" class="h-100">
   <head prefix="og: http://ogp.me/ns#">
     {% include head/head.html %}
-    {% if page.layout == 'landing-page' %}{% include head/index-style.html %}{% endif %}
+    {% include head/index-style.html %}
   </head>
   <body class="d-flex flex-column h-100">
     <!--<div id="wrapper">-->
       <div id="skip-to-content"><a href="#maincontent">Skip to main content</a></div>
-      <div id="everything"{% if page.layout == 'landing-page' %} class="flex-grow-1"{% endif %}>
+      {% if page.layout == 'landing-page' %}<div id="everything" class="flex-grow-1">{% endif %}
         {% include collection-banner.html %}
-      </div>
+      {% if page.layout == 'landing-page' %}</div>{% endif %}
       {% unless page.layout == "landing-page" %}{% include collection-nav.html %}{% endunless %}
       <main id="maincontent" role="main" class="flex-shrink-0{% if page.layout == 'landing-page' %} bg-cardinal text-white border-top border-white{% endif %}">
         {{ content }}

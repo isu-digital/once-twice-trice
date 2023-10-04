@@ -26,12 +26,12 @@
 {%- assign item = site.data[site.metadata] | where: "objectid", include.objectid | first -%}
 {%- capture audio_link -%}{{ '/items/' | append: item.objectid | append: '.html' | relative_url }}{%- endcapture -%}
 {%- capture src -%}{{ item.object_location | relative_url }}{% endcapture %}
-{%- capture audio_caption -%}{% if include.caption %}{{ include.caption }}{% else %}{{ item.title }}{% endif %}{%- endcapture -%}
+{%- capture audio_caption -%}{% if include.caption %}{{ include.caption }}{% else %}<strong>{{ item.title }}</strong>, <strong>{{ item.date-scua-format }}</strong>. <em>{{ item.source }}</em>{% endif %}{%- endcapture -%}
 {% endif %}
 <p class="text-center my-3">
     <audio controls class="w-100">
         <source src="{{ src }}" >
         Your browser does not support the audio element.
     </audio>
-    {% unless include.caption == false %}<small class="figure-caption"><a href="{{ audio_link }}">{{ audio_caption }}</a></small>{% endunless %}
+    {% unless include.caption == false %}<small class="figure-caption"><a href="{{ audio_link }}" class="caption-color">{{ audio_caption }}</a></small>{% endunless %}
 </p>

@@ -32,7 +32,7 @@ Over the summer of 1981, ISU students Steve deProsse and Rick Yoder developed a 
 
 {% include feature/image-float.html objectid="trice_029" width="50" float="start" %}
 
-The billboard was installed in late August near the corner of Lincoln Way and Sherman Avenue at the cost of $240, which had been provided by the Iowa Public Interest Research Group (PIRG). Private donations were solicited to repay PIRG. 
+The billboard was installed in late August near the corner of Lincoln Way and Sherman Avenue at the cost of $240, which had been provided by the Iowa Public Interest Research Group (IPIRG). Private donations were solicited to repay IPIRG. 
 
 <div class="clearfix"></div>
 

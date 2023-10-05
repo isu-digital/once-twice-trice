@@ -9,7 +9,7 @@
 
 <div class="about-narrowed-content">
     <figure class="figure mx-4{% if include.width %} feature-w-{{ include.width }}{% endif %} feature-float-{{ include.float }}">
-        <a class="spotlight gallery-img" data-download="true" title="{{ image_caption_title }}, {{ image_caption_source }}" href="{{ image_src_lg }}">
+        <a class="spotlight gallery-img" data-download="false" title="{{ image_caption_title }}, {{ image_caption_source }}" href="{{ image_src_lg }}">
             <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 3 2'%3E%3C/svg%3E" data-src="{{ image_src }}" alt="{{ image_alt | default: image_caption | escape }}" class="figure-img img-fluid rounded lazyload">
         </a>
         {% unless include.caption == false %}<figcaption class="figure-caption text-center caption-color">{% if i contains "/" %}{{ image_caption }}{% else %}<strong>{{ image_caption_title }}</strong>, <strong>{{ image_date }}</strong>. <em>{{ image_caption_source }}</em>{% endif %}</figcaption>{% endunless %}

@@ -12,7 +12,7 @@ credits: false
 {:.site-title}
 
 {:.pt-4}
-{% include feature/image-float.html objectid="trice_023" width="50" float="start" %}
+{% include feature/image-float.html objectid="trice_023" width="25" float="start" %}
 
 The 1980s saw the second major push to name the stadium after Trice. Despite the Board of Regents' vote to delay naming the football stadium in 1976, students continued to show their support for Jack Trice Stadium through passing resolutions and bills in the Government of the Student Body and by demonstrating their support in highly visible ways. It was assumed that the University would own the stadium by the Spring of 1984, giving the students a new deadline.
 

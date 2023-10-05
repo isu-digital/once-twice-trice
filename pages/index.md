@@ -4,11 +4,7 @@ title: Home
 permalink: /
 ---
 
-# Once, Twice, Trice:
-
-## Students Tackle Naming Jack Trice Stadium
-
-a Special Collections and University Archives exhibition, highlights the 24 years of student activism to honor Jack Trice and his ideals by naming the football stadium in his honor.
+**Once, Twice, Trice: Students Tackle Naming Jack Trice Stadium**, a Special Collections and University Archives exhibition, highlights the 24 years of student activism to honor Jack Trice and his ideals by naming the football stadium in his honor.
 
 The exhibition begins in the 1920s, showing the early tributes to Trice by the Iowa State community. Then, it moves through the decades of student activism, from the initial push in the 1970s that resulted in a deferred decision by the Board of Regents, through the 1980s, when the field was named, and a statue erected in Trice's honor. The exhibition culminates with the final and successful push in the 1990s to rename the entire facility Jack Trice Stadium.
 

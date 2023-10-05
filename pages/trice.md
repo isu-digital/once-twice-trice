@@ -25,7 +25,7 @@ In February of 1995, Dustin Shaver revived the cause to name the stadium Jack Tr
 </div>
 
 {:.pt-4}
-{% include feature/image-float.html objectid="trice_043" width="25" float="end" %}
+{% include feature/image-float.html objectid="trice_043" width="50" float="end" %}
 
 The Advisory Committee on the Naming of Buildings and Streets again considered the proposal and looked to the Iowa State community for input. By this time, the number of signatures supporting the cause had increased since the 1970s and 1980s to over 8,000.  
 

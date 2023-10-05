@@ -52,7 +52,7 @@ Even in their deepest sorrow, Trice's family recognized the support of the Iowa 
 
 {% include feature/image-float.html objectid="trice_006" width="50" float="start" %}
 
-For the rest of the 1923 football season, each of Trice's former teammates paid tribute to him with a black mourning ribbon tied around their left arm. This visible eulogy stood in contrast to their gold jerseys and heartened them to demonstrate Trice's fighting spirit on the field. Football Captain Ira Young is quoted in the Jack Trice memorial issue of The Iowa State Student as saying about Trice, "He fought harder than the rest of us; he gave more than the rest of us; he gave his life for Ames." 
+For the rest of the 1923 football season, each of Trice's former teammates paid tribute to him with a black mourning ribbon tied around their left arm. This visible eulogy stood in contrast to their gold jerseys and heartened them to demonstrate Trice's fighting spirit on the field. Football Captain Ira Young is quoted in the Jack Trice memorial issue of *The Iowa State Student* as saying about Trice, "He fought harder than the rest of us; he gave more than the rest of us; he gave his life for Ames." 
 
 <div class="clearfix"></div>
 

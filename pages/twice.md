@@ -27,12 +27,16 @@ In the fall of 1980, students started a marketing push to expand their efforts t
 
 <div class="clearfix"></div>
 
+{:.pt-3}
 Over the summer of 1981, ISU students Steve deProsse and Rick Yoder developed a plan for a billboard to keep alive the idea of naming the stadium in honor of Trice. The billboard idea was inspired by the airplane from the previous fall with the hope that it would have a larger impact since it would be up for a month. 
 
 {% include feature/image-float.html objectid="trice_029" width="50" float="start" %}
 
 The billboard was installed in late August near the corner of Lincoln Way and Sherman Avenue at the cost of $240, which had been provided by the Iowa Public Interest Research Group (PIRG). Private donations were solicited to repay PIRG. 
 
+<div class="clearfix"></div>
+
+{:.pt-2}
 Following a debate by GSB Senators, a vote was held to allocate funds to promote the stadium's naming in honor of Trice during the game against Nebraska on November 15, 1980. Money was set aside for flyers, radio spots, an airplane, a banner, and a newspaper ad. During the game, radio spots ran on three radio stations in Ames and one in Shenandoah. A station in Des Moines refused to run the ad based on the Fairness Doctrine.  
 
 Support for naming the football stadium in honor of Jack Trice was consistently strong among the student body, as evidenced by student-signed petitions, GSB legislation, and resolutions by student organizations. The Jack Trice Memorial Foundation worked to garner support from the ISU Faculty as well by polling faculty on their stance and by soliciting their support by inviting them to join the Foundation and to send postcards supporting the naming of the stadium after Trice to the Board of Regents.  

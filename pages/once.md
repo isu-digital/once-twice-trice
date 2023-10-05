@@ -16,7 +16,8 @@ credits: false
 
 By the 1971 football season, it had become clear that the stadium at Clyde Williams Field needed replacing. There were structural problems, facilities such as restrooms needed to be improved, seating was limited to 35,000 (with a third of that being in the endzone), and gameday parking was scarce with no room for expansion. In September 1973, a design by Finch-Heery and Durrant, Deininger, Dommer, Kramer, Gordon was selected. On October 26, 1973, a groundbreaking ceremony was held for the new stadium.  
 
-{:.pt-4}
+<div class="clearfix"></div>
+
 In 1973, Alan Beals, an Athletic Department tutor, happened upon the same overlooked and dilapidated plaque discovered by Tom Emmerson in 1957. Trice's story was again forgotten in the 16 years between their independent discoveries of this memorial. On October 5, 1973, commemorating the 50th anniversary of Trice's death, Beals and Daily sports editor Jim Smith wrote the article, "Trice: A Forgotten Story Remembered," in the *Iowa State Daily*.
 
 <div class="row pt-3">

@@ -36,6 +36,9 @@ Nearly 3,000 people gathered, forming a semi-circle around a wooden platform hol
 
 Among the speakers were R. A. Pearson (President), Dr. O. H. Cessna (College Chaplin), J. E. Foster (Dean of Men), C. S. McElyea (President of the Cardinal Guild), and Ira Young (Captain of the football team). His virtues as a student, athlete, and person were lauded, and the service concluded with the reading of Trice's last letter by President Pearson.  
 
+<div class="clearfix"></div>
+
+{:.pt-3}
 The Iowa State community, including the Ames Chamber of Commerce and Cardinal Guild, raised over $2,000 (the equivalence of over $30,000 today) for the Trice family to cover funeral expenses. The community's generosity also allowed Cora Mae Trice, Jack's widow, to pay off their home mortgage with money left in reserve.  
 
 Trice's body was accompanied by Cora Mae Trice (widow), Anna W. Trice (mother), Lee Trice (uncle), Harold L. Tutt (Alpha Phi Alpha fraternity brother), and William H. Thompson (Freshman Coach). Trice's funeral was held in Ravenna, Ohio, and the body was interred at Fairview Cemetery, Hiram, Ohio.  

@@ -16,7 +16,7 @@ credits: false
 
 The 1980s saw the second major push to name the stadium after Trice. Despite the Board of Regents' vote to delay naming the football stadium in 1976, students continued to show their support for Jack Trice Stadium through passing resolutions and bills in the Government of the Student Body and by demonstrating their support in highly visible ways. It was assumed that the University would own the stadium by the Spring of 1984, giving the students a new deadline.
 
-During the VEISHEA 1980 celebration, the Jack Trice Memorial Foundation had a booth as part of the open house displays. They shared displays and distributed information at the booth, including a ticket to obtain this poster and mailer about Trice and his ideals. 
+During the VEISHEA 1980 celebration, the Jack Trice Memorial Foundation had a booth as part of the open house displays. They shared displays and distributed information at the booth, including a ticket to obtain this poster and the mailer, seen below, about Trice and his ideals. 
 
 <div class="clearfix"></div>
 

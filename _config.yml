@@ -8,9 +8,9 @@
 # URL VARIABLES
 #
 # site domain, full URL to the production location of your collection
-url: # https://iastatedigital.org
+url: #https://iastatedigital.org
 # path to location on the domain if necessary e.g. /digital/hjccc
-baseurl: # /exhibits/oncetwicetrice
+baseurl: #/exhibits/oncetwicetrice
 # location of code, the full url to your github repository
 source-code: https://github.com/owikle/isu-jack-trice
 
@@ -60,14 +60,14 @@ organization-logo-nav: /assets/img/iastate-white.svg
 #
 # leave these blank or comment out to NOT include google code
 # if present, used to add analytics during "production" build only
-# google-analytics-id: "G-XXXXXXXXX"
+google-analytics-id: "G-0X3N5MNFQ1"
 # google-cse-id: "002151703305773322890:1pu3smhw1t8"
 
 ##########
 # ROBOTS EXCLUDE
 #
 # set noindex to true if you do NOT want Google to index your site
-noindex: true 
+# noindex: true 
 
 ##########
 # BUILD SETTINGS 

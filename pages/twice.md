@@ -12,11 +12,11 @@ credits: false
 {:.site-title}
 
 {:.pt-4}
-{% include feature/image-float.html objectid="trice_023" width="50" float="start" %}
+{% include feature/image-float.html objectid="trice_023" width="25" float="start" %}
 
 The 1980s saw the second major push to name the stadium after Trice. Despite the Board of Regents' vote to delay naming the football stadium in 1976, students continued to show their support for Jack Trice Stadium through passing resolutions and bills in the Government of the Student Body and by demonstrating their support in highly visible ways. It was assumed that the University would own the stadium by the Spring of 1984, giving the students a new deadline.
 
-During the VEISHEA 1980 celebration, the Jack Trice Memorial Foundation had a booth as part of the open house displays. They shared displays and distributed information at the booth, including a ticket to obtain this poster and mailer about Trice and his ideals. 
+During the VEISHEA 1980 celebration, the Jack Trice Memorial Foundation had a booth as part of the open house displays. They shared displays and distributed information at the booth, including a ticket to obtain this poster and the mailer, seen below, about Trice and his ideals. 
 
 <div class="clearfix"></div>
 
@@ -32,7 +32,7 @@ Over the summer of 1981, ISU students Steve deProsse and Rick Yoder developed a 
 
 {% include feature/image-float.html objectid="trice_029" width="50" float="start" %}
 
-The billboard was installed in late August near the corner of Lincoln Way and Sherman Avenue at the cost of $240, which had been provided by the Iowa Public Interest Research Group (PIRG). Private donations were solicited to repay PIRG. 
+The billboard was installed in late August near the corner of Lincoln Way and Sherman Avenue at the cost of $240, which had been provided by the Iowa Public Interest Research Group (IPIRG). Private donations were solicited to repay IPIRG. 
 
 <div class="clearfix"></div>
 

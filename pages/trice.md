@@ -47,7 +47,7 @@ On August 30, 1997, a pregame dedication ceremony for Jack Trice Stadium was hel
 </div>
 
 {:.pt-4}
-Following the dedication ceremony, the Cyclones hosted Oklahoma State at the newly christened Jack Trice Stadium. Just before kickoff, the announcer relayed Trice's story, and Gladys Nortey, a graduate journalism student and former track and field athlete, read Trice's last letter to the crowd of nearly 44,000.
+Following the dedication ceremony, the Cyclones hosted Oklahoma State at the newly christened Jack Trice Stadium. Just before kickoff, the announcer relayed Trice's story, and Gladys Nortey, a graduate journalism student and former track and field athlete, read Trice's "I will!" letter to the crowd of nearly 44,000.
 
 {:.pt-4}
 {% include feature/image.html objectid="trice_045" width="50" %}

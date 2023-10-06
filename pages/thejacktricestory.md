@@ -52,7 +52,7 @@ Even in their deepest sorrow, Trice's family recognized the support of the Iowa 
 
 {% include feature/image-float.html objectid="trice_006" width="50" float="start" %}
 
-For the rest of the 1923 football season, each of Trice's former teammates paid tribute to him with a black mourning ribbon tied around their left arm. This visible eulogy stood in contrast to their gold jerseys and heartened them to demonstrate Trice's fighting spirit on the field. Football Captain Ira Young is quoted in the Jack Trice memorial issue of The Iowa State Student as saying about Trice, "He fought harder than the rest of us; he gave more than the rest of us; he gave his life for Ames." 
+For the rest of the 1923 football season, each of Trice's former teammates paid tribute to him with a black mourning ribbon tied around their left arm. This visible eulogy stood in contrast to their gold jerseys and heartened them to demonstrate Trice's fighting spirit on the field. Football Captain Ira Young is quoted in the Jack Trice memorial issue of *The Iowa State Student* as saying about Trice, "He fought harder than the rest of us; he gave more than the rest of us; he gave his life for Ames." 
 
 <div class="clearfix"></div>
 
@@ -66,7 +66,7 @@ Still, the student body wanted to establish a memorial beyond what could be carr
 {:.pt-4}
 In 1924, a commemorative plaque was mounted in State Gym. It contained the date and cause of Trice's death and an excerpt from his last letter. Over the years, this tangible remembrance, cast in bronze, was forgotten, covered in grime, and hidden behind a staircase.
 
-Over 30 years later, this plaque was rediscovered by Tom Emmerson, an undergraduate journalism student at Iowa State. Emmerson, interested to learn more about Trice, looked to the Athletic Department only to discover that despite the plaque, Trice's story had been forgotten. Emmerson went to the library to research Trice and ultimately wrote the article "Jack Trice – Victor on a Fatal Field" in the November 1957 issue of The Iowa State Scientist. The cover story garnered little student interest at the time.
+Over 30 years later, this plaque was rediscovered by Tom Emmerson, an undergraduate journalism student at Iowa State. Emmerson, interested to learn more about Trice, looked to the Athletic Department only to discover that despite the plaque, Trice's story had been forgotten. Emmerson went to the library to research Trice and ultimately wrote the article "Jack Trice – Victor on a Fatal Field" in the November 1957 issue of *The Iowa State Scientist*. The cover story garnered little student interest at the time.
 
 {% include feature/image.html objectid="trice_012" width="50" %}
 

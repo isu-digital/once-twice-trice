@@ -17,9 +17,9 @@
     }
     #title-box {
         margin-top: 15em; 
-        margin-left: 1em;
+        /* margin-left: 1em;
         margin-right: 1em;
-        /* position: absolute;
+        position: absolute;
         left: 0.0005em;
         bottom: 0.0005em; */
     }
@@ -33,7 +33,18 @@
             height: 500px;
         }
         #title-box {
-            margin-top: 2em; 
+            margin-top: 2em;
+        }
+    }
+
+    @media screen and (max-width: 576px) {
+        #home-banner {        
+            height: 500px;
+        }
+        #title-box {
+            margin-top: 2em;
+            margin-right: auto;
+            margin-left: auto;
         }
     }
     /* .nav-buttons:hover {

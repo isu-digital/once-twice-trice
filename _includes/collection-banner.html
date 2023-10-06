@@ -35,14 +35,16 @@
 {%- elsif page.layout == "landing-page" -%}
 <div id="home-banner" class="container-fluid mt-3 mb-5">
 
-    <div id="title-box" class="col-md-5 py-3 px-5 text-white text-center site-title">
+    <div id="title-box" class="col-md-5 py-md-3 text-white text-center site-title">
         <h1 class="display-2 p-0 m-0"><span class="title-underline">ONCE</span>, <span class="title-underline">TWICE</span>,</h1>
         <h1 class="title-large p-0 m-0">TRICE:</h1>
         <p class="mb-0 mt-1 site-subtitle">Students Tackle Naming</p>
         <p class="mb-0 site-subtitle">Jack Trice Stadium</p>
     </div>
 
-    <a id="toc-box" class="py-3 px-5 display-6 fs-2 text-white bg-cardinal bg-opacity-75 rounded" href="{{ '/thejacktricestory.html' | relative_url }}"><strong>View the Virtual Exhibit &raquo;</strong></a>
+    <div class="toc-test">
+        <a id="toc-box" class="py-3 px-5 display-6 fs-3 text-white bg-cardinal bg-opacity-75 rounded" href="{{ '/thejacktricestory.html' | relative_url }}"><strong>View the Virtual Exhibit &raquo;</strong></a>
+    </div>
     
 </div>
 {%- else -%}
